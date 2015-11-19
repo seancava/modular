@@ -3,36 +3,36 @@ a:link{
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400;
 	color: #000;
-	font-size:14px;
+	font-size: .8em;
 	text-decoration:none;
 	}
 a:active{
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400;
 	color: #000;
-	font-size:14px;
+	font-size: .8em;
 	text-decoration:none;
 	}	
 a:visited{
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400;
 	color: #000;
-	font-size:14px;
+	font-size: .8em;
 	text-decoration:none;
 	}	
 a:hover{
 	font-family: 'Oswald', sans-serif;
 	font-weight: 400;
 	color: #000;
-	font-size:14px;
+	font-size:.8em;
 	text-decoration:underline;
 	}	
-li {
+li{
 	list-style:none;
 	}
 p{
 	font-family:Arial, Helvetica, sans-serif;
-	font-size:14px;
+	font-size:.8em;
 	color: #000;
 	}
 input{
